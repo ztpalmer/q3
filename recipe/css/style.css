@@ -1,0 +1,31 @@
+body{
+	background-color:#F4E9DE;
+}
+
+h1{
+	color: #162328;
+	text-align: center;
+	font-size: 70px;
+}
+h2{
+	color:#743838;
+	text-align: left;
+	font-size: 45px;
+}
+h3{
+	color:#3E5850;
+	text-align: left;
+	font-size: 20px;
+}
+
+.zac{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #743838;
+}
+
+.palmer{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #3E5850;
+}

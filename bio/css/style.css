@@ -1,0 +1,42 @@
+body{
+	background-color: #708d81;
+}
+h1{
+	text-align: center;
+	color: #292f2f;
+}
+h2{
+	text-align:center;
+	color: #292f2f;
+}
+h3{
+	text-align:center;
+	color: #292f2f;
+}
+.wrapper{
+	background-color: #a6d3a0;
+	margin: 0 auto;
+	max-width: 60%;
+	border:8px;
+	border-style: solid;
+	border-color: #f4d58d;
+	padding: 10px;
+}
+.hobby{
+	float:right;
+}
+img{
+	float: left;
+	width:45%;
+	border-width:2px;
+	border-style:solid;
+	border-color:#f4d58d;
+}
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	content:"";
+	clear:both;
+	height:0;
+}
+.one-sided-shadow {-webkit-box-shadow: 0 8px 6px -6px black}
